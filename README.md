@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Armaan Vishwakarma
 
-<!--
-**armaanvishwakarma/armaanvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **B.Tech CSE | Computer Networking & Systems Enthusiast**
 
-Here are some ideas to get you started:
+- 🔍 **I break down:** How data travels across a wire, network protocols, and packet mechanics.
+- ⚡ **Currently working on:** Hands-on CCNA track (Jeremy's IT Lab), Cisco Packet Tracer network topologies, and CLI troubleshooting.
+- 🎯 **Interested in:** Network Architecture, Packet Analysis, Routing & Switching, and Linux Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Foundations
+
+**Protocols & Core Concepts:**  
+TCP/IP Model • OSI Model • IPv4 Addressing • Subnetting (CIDR) • ARP • ICMP • DNS • DHCP
+
+**Tools & Simulation:**  
+Cisco Packet Tracer • Wireshark • Network CLI Tools (`ping`, `tracert`, `netstat`, `arp`, `ipconfig`)
+
+**Systems & Version Control:**  
+Linux CLI • Windows Command Line • Git & GitHub
+
+---
+
+### 🚀 Featured Hands-on Labs & Proof of Work
+
+* 🌐 **[networking-fundamentals](https://github.com/armaanvishwakarma/networking-fundamentals)** — Hands-on documentation of CCNA concepts, Packet Tracer network topologies, and CLI verification logs.
+* 🔍 **Packet Tracing & Wire Analysis** *(In Progress)* — Capturing and breaking down fundamental network interactions (ARP resolution, ICMP echo, and local LAN traffic).
+* 🐧 **Linux CLI & Systems Navigation** *(Upcoming)* — Hands-on terminal workflows, interface configuration, and file systems.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armaanvishwakarma&show_icons=true&theme=radical&hide_border=true" alt="Armaan's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/armaan-vishwakarma) • [GitHub](https://github.com/armaanvishwakarma)
